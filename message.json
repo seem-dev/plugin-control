@@ -1,4 +1,14 @@
 {
-  "message": "# Update\n\nHello **Plugin Users**!\n\n- Feature 1\n- Feature 2",
-  "version": "1.0"
+  "version": "1.0",
+  "message": "# 🚀 Plugin Update\n\n" +
+             "## ✨ What’s New\n" +
+             "- ✅ Feature 1 added\n" +
+             "- ✅ Feature 2 improved\n" +
+             "- 🔥 Performance upgrades\n\n" +
+             "## 🛠 Changes\n" +
+             "<font color=\"rgb(255,200,0)\">System architecture optimized</font>\n\n" +
+             "## ⚠ Important\n" +
+             "<b>Restart your plugin after updating!</b>\n\n" +
+             "---\n" +
+             "<font size=\"18\" color=\"rgb(0,255,150)\">Thank you for using this plugin ❤️</font>"
 }
