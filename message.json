@@ -1,4 +1,4 @@
 {
   "version": "1.0",
-  "message": "# 🚀 Plugin Update\n\n## ✨ What’s New\n- ✅ Feature 1 added\n- ✅ Feature 2 improved\n- 🔥 Performance upgrades\n\n## 🛠 Changes\n<font color=\"rgb(255,200,0)\">System architecture optimized</font>\n\n## ⚠ Important\n<b>Restart your plugin after updating!</b>\n\n---\n<font size=\"18\" color=\"rgb(0,255,150)\">Thank you for using this plugin ❤️</font>"
+  "message": "# Changelog\n\n## [1.2.0] - 2026-02-26\n### Added\n- New feature: Auto-save plugin\n- Support for custom grid layouts\n### Fixed\n- Bug with primary part assignment in certain models\n### Changed\n- Updated UI for better usability"
 }
