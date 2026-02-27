@@ -1,4 +1,4 @@
 {
   "version": "1.0",
-  "message": "# Changelog\n\n## [1.2.0] - 2026-02-26\n### Added\n- New feature: Auto-save plugin\n- Support for custom grid layouts\n### Fixed\n- Bug with primary part assignment in certain models\n### Changed\n- Updated UI for better usability"
+  "message": "New Message! Welcome!"
 }
