@@ -1,0 +1,38 @@
+{
+  "Status": {
+    "Mode": "Active",
+    "DevMessage": "A new simple plugin will come out soon! You will be notified when it is released(via Message Panel).",
+    "Active": {
+      "BackgroundNeon": "green",
+      "MainBackground": "green",
+      "StrokeBlur": "black",
+      "message": "The plugin is developed by the creator.",
+      "title": "ACTIVE",
+      "version": "undefined"
+    },
+    "InActive": {
+      "BackgroundNeon": "black",
+      "MainBackground": "orange",
+      "StrokeBlur": "black",
+      "message": "The plugin is disadvantaged; the developer of this plugin is currently working on something else. This does not mean that this plugin will not be developed further!",
+      "title": "INACTIVE",
+      "version": "undefined"
+    },
+    "Updated": {
+      "BackgroundNeon": "lightblue",
+      "MainBackground": "green",
+      "StrokeBlur": "lightblue",
+      "message": "The plugin is currently under update.",
+      "title": "UPDATE",
+      "version": "undefined"
+    },
+    "Updating": {
+      "BackgroundNeon": "orange",
+      "MainBackground": "orange",
+      "StrokeBlur": "black",
+      "message": "The plugin is currently under update.",
+      "title": "UPDATING",
+      "version": "undefined"
+    }
+  }
+}
